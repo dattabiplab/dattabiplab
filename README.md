@@ -38,7 +38,7 @@ https://badgen.net/
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake svg](https://github.com/kaithedevil/kaithedevil/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/dattabiplab/dattabiplab/blob/output/github-contribution-grid-snake.svg)
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
