@@ -35,11 +35,11 @@ https://badgen.net/
 + Practising on <a href="https://codeforces.com/profile/Kaithedevil" rel="nofollow">Codeforces</a> 🙃
 + Sharing updates on <a href="https://www.linkedin.com/in/biplab-datta-b77857230/" rel="nofollow">LinkedIn</a> 😇
 
-
+<!--
 ## Watch my contributions get eaten by a snake 🐍
 
 ![snake svg](https://github.com/dattabiplab/dattabiplab/blob/output/github-contribution-grid-snake.gif)
-<!--
+
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
